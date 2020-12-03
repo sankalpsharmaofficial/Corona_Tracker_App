@@ -2,5 +2,5 @@
 
 ### [Live Site](https://covid19statswebsite.netlify.com/)
 
-![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
+![COVID-19 Tracker](https://github.com/sankalpsharmaofficial/Corona_tracker_app/blob/master/Covid_tracker_app.png)
 
